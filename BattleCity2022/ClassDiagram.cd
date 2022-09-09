@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BattleCity2022.Baze">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Baze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Block">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAQAQIAAAEAAAAAAAAAAQABgAAAABAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Bonus">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAQAQIAAAAAAAAAgAAAAAABgAAAAACA=</HashCode>
+      <FileName>Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Bullet">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAAAAAgAAECAAIAQABEAAAAAAAAADABgAAAAAgA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Field">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAWpwoCAAGGMARBAJMGkRoADQIEUQAQgpwQSYABJhAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Grass">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Help">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAIhwAACAAQRQAACiEQACiIAAAAAACQAAwACBHBAA=</HashCode>
+      <FileName>Help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.IIPanzer">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACACAAAAAAAgQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IIPanzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.LightPanzer">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAAACAAAACABAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>LightPanzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.menu">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAIEAACAAQQCwAASAAQKrAAACABAALAAIMABAgAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.MyEventArgs">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAABiAAAABAA=</HashCode>
+      <FileName>MyEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Options">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAFAAwEACAAgLQIAAmEAICiIA0gAggMZAEACCokAAA=</HashCode>
+      <FileName>Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Panzer">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAEAAgAAECAAIAAAEEAQAAAAAAIYBBgAAAAAiA=</HashCode>
+      <FileName>Panzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Steal">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Steal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.SuperPanzer">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SuperPanzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.TriggerArgs">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgJACIAAA=</HashCode>
+      <FileName>TriggerArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.Water">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleCity2022.AboutGame">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAAAASEAACiAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>AboutGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BattleCity2022.direction">
+    <Position X="15.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="BattleCity2022.PanzerEvent" Collapsed="true">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BattleCity2022.BulletEvent">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BattleCity2022.Trigger">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
