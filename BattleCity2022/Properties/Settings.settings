@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BattleVillage.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackColor_Field" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkSlateGray</Value>
+    </Setting>
+    <Setting Name="ChooseLevel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ColorPlayer1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MyTank</Value>
+    </Setting>
+    <Setting Name="ColorPlayer2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SecondPlayer</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

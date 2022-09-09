@@ -1,0 +1,56 @@
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.exe.config
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.exe
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.pdb
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csprojAssemblyReference.cache
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Field.resources
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Help.resources
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.menu.resources
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Options.resources
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Properties.Resources.resources
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csproj.GenerateResource.cache
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csproj.CoreCompileInputs.cache
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.exe
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.pdb
+G:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.AboutGame.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.exe.config
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.exe
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.pdb
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csprojAssemblyReference.cache
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.AboutGame.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Field.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Help.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.menu.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Options.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Properties.Resources.resources
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csproj.GenerateResource.cache
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csproj.CoreCompileInputs.cache
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.exe
+E:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.pdb
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.exe.config
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.exe
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\bin\Debug\BattleCity2022.pdb
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csprojAssemblyReference.cache
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.AboutGame.resources
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Field.resources
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Help.resources
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.menu.resources
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Options.resources
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.Properties.Resources.resources
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csproj.GenerateResource.cache
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.csproj.CoreCompileInputs.cache
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.exe
+D:\3 курс\Разр. ПМ\КУРСОВОЙ ПРОЕКТ\BattleCity2022\BattleCity2022\obj\Debug\BattleCity2022.pdb
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\bin\Debug\BattleCity2022.exe.config
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\bin\Debug\BattleCity2022.exe
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\bin\Debug\BattleCity2022.pdb
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.csprojAssemblyReference.cache
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.AboutGame.resources
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.Field.resources
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.Help.resources
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.menu.resources
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.Options.resources
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.Properties.Resources.resources
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.csproj.GenerateResource.cache
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.csproj.CoreCompileInputs.cache
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.exe
+E:\3 курс\Разр. ПМ\Курсовой проект. Гвоздев Илья. 32919-3\Source\Танчики (second version)\BattleCity2022\obj\Debug\BattleCity2022.pdb
